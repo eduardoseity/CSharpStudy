@@ -1,0 +1,15 @@
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/bin/Debug/net5.0/CSharpStudy.deps.json
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/bin/Debug/net5.0/CSharpStudy.runtimeconfig.json
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/bin/Debug/net5.0/CSharpStudy.runtimeconfig.dev.json
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/bin/Debug/net5.0/CSharpStudy.dll
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/bin/Debug/net5.0/ref/CSharpStudy.dll
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/bin/Debug/net5.0/CSharpStudy.pdb
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/obj/Debug/net5.0/CSharpStudy.csprojAssemblyReference.cache
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/obj/Debug/net5.0/CSharpStudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/obj/Debug/net5.0/CSharpStudy.AssemblyInfoInputs.cache
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/obj/Debug/net5.0/CSharpStudy.AssemblyInfo.cs
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/obj/Debug/net5.0/CSharpStudy.csproj.CoreCompileInputs.cache
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/obj/Debug/net5.0/CSharpStudy.dll
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/obj/Debug/net5.0/ref/CSharpStudy.dll
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/obj/Debug/net5.0/CSharpStudy.pdb
+/Users/eduardoseity/Desktop/GitHub/CSharpStudy/obj/Debug/net5.0/CSharpStudy.genruntimeconfig.cache
